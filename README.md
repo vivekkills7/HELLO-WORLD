@@ -1,2 +1,5 @@
 # HELLO-WORLD
-My first repository
+
+
+HI
+I am vivekananda chaudhuri. I study in IITD.
